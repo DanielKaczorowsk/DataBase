@@ -1,5 +1,5 @@
 <?php
-	namespace DataBase\Model;
+	namespace Model;
 	use pdo;
 	require_once "interface_connect.php";
 
